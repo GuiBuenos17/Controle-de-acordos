@@ -1,4 +1,4 @@
-
+![Dashboard Financeiro](Captura%20de%20tela%202025-02-27%20133831.jpg)
 
 # 📊 Dashboard Financeiro - Power BI  
 
